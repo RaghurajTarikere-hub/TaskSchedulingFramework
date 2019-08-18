@@ -1,5 +1,3 @@
-#include <queue>
-
 namespace Tasking {
     template <typename T>
     class TaskChannel {
